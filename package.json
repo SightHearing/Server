@@ -1,0 +1,25 @@
+{
+  "name": "sight-server",
+  "version": "1.0.0",
+  "description": "server for sight hearing",
+  "main": "index.js",
+  "scripts": {
+    "test": "-t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SightHearing/Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SightHearing/Server/issues"
+  },
+  "homepage": "https://github.com/SightHearing/Server#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
